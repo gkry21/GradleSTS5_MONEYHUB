@@ -1,0 +1,4 @@
+1. 빌드패스
+2. 페이셋 
+3. settingS.gradle 에서 name을 project명으로 변경
+4. 톰캣 서버 path를 /web으로 변경
